@@ -7,5 +7,7 @@ Project Overview
 Features
 
 -Natural Language Understanding: Uses LSTM to comprehend input context and semantics.
+
 -Response Generation: Encoder-Decoder architecture crafts relevant responses.
+
 -Scalable: Easily expandable with more data or integration into existing systems.
